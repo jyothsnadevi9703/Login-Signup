@@ -1,0 +1,26 @@
+[
+  {
+    "name": "jyothsna devi",
+    "password": "jyo@123",
+    "dob": "123456",
+    "hobby": "singing",
+    "gender": "female",
+    "description": "lalalala"
+  },
+  {
+    "name": "shivani singh",
+    "password": "shivi@123",
+    "dob": "03/03/03",
+    "hobby": "dancing",
+    "gender": "female",
+    "description": "lululu"
+  },
+  {
+    "name": "anjali",
+    "password": "123anjali@",
+    "dob": "30/6/2002",
+    "hobby": "singing",
+    "gender": "femaale",
+    "description": "student"
+  }
+]
